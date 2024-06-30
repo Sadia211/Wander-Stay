@@ -12,7 +12,7 @@ const Hotel = () => {
   }, []);
 
   return (
-    <div className='mt-20 mx-10 mb-10'>
+    <div className='mx-10 mt-32'>
       <h1 className='text-4xl font-poppins text-center my-7 font-bold'>Book hotels for your next trip</h1>
       {hotels.map(hotel => (
         <Hotelcard

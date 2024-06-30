@@ -19,18 +19,15 @@ const Home = () => {
         <div className='mx-auto'>
             <Navbar></Navbar>
             <Banner></Banner>
-            <Views></Views>
-         
-        <Hotel></Hotel>
-      <div>
-        
-     
+           
+                <Views></Views>
+                <Hotel></Hotel>
        
-      </div>
-
-
-      <Footer></Footer>
-        </div>
+ 
+ <Testimonial></Testimonial>
+       <Footer></Footer></div>
+           
+        
     );
 };
 

@@ -31,7 +31,7 @@ const Testimonial = () => {
 
   return (
     <>
-      <div className='h-80 my-20'>
+      <div className='my-20 mt-32'>
         <h1 className='text-4xl font-poppins text-center mt-20 mb-5 font-bold'>What our clients say</h1>
         <Swiper
           spaceBetween={30}
@@ -51,7 +51,7 @@ const Testimonial = () => {
           {reviews.map((review) => (
             <SwiperSlide key={review.id}>
               <div className='p-20 border rounded-lg h-60 '>
-              <h3 className='text-2xl text-orange-400 text-center'>{review.name}</h3>
+              <h3 className='text-2xl  text-center'>{review.name}</h3>
                 <Rating 
                   className='mx-auto mb-4'
                   style={{ maxWidth: 180 }}

@@ -1,29 +1,29 @@
 [
   {
     "id": 1,
-    "name": "John Doe",
+    "name": "Shishir Hasan",
     "image": "https://example.com/images/john_doe.jpg",
-    "testimonial": "Booking through this website was a breeze! The hotel was exactly as described and the service was exceptional. I will definitely use this service again.",
+    "testimonial": "Booking through this website was incredibly convenient! The hotel exceeded expectations, and the service was top-notch. I look forward to using this service again.",
     "date": "2024-06-01",
-    "hotelName": "Magestic Oasis suite",
+    "hotelName": "Hotel The Cox Today",
     "rating": 4.5
   },
   {
     "id": 2,
-    "name": "Jane Smith",
+    "name": "Tasnim",
     "image": "https://example.com/images/jane_smith.jpg",
-    "testimonial": "I had a fantastic experience! The booking process was simple and the hotel was amazing. Highly recommend!",
+    "testimonial": "My experience was simply outstanding! The booking process was seamless, and the hotel itself was beyond amazing. Highly recommended!",
     "date": "2024-05-15",
-    "hotelName": "Grandeur skyline residence",
+    "hotelName": "Sea Paradise",
     "rating": 5
   },
   {
     "id": 3,
-    "name": "Emily Johnson",
+    "name": "Rafia Tabassum",
     "image": "https://example.com/images/emily_johnson.jpg",
-    "testimonial": "Great service and excellent hotel options. Everything went smoothly from start to finish. Will book again!",
+    "testimonial": "The service was exceptional, and the hotel options were perfect for my needs. Everything was hassle-free from start to finish. Definitely booking again!",
     "date": "2024-04-20",
-    "hotelName": "Prestigious penthouse retreat",
+    "hotelName": "Sea Queen",
     "rating": 4
   }
 ]

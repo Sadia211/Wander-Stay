@@ -25,7 +25,7 @@ const router = createBrowserRouter([
 {
   path:"/hotels/:hotel",
   element:<Rooms></Rooms>,
-loader:({params})=>fetch(`http://localhost:5000/hotels/${params.hotel}`)
+loader:({params})=>fetch(`https://hotel-server-nine.vercel.app/hotels/${params.hotel}`)
 },
   {
     path: "/hotels",
@@ -35,7 +35,7 @@ loader:({params})=>fetch(`http://localhost:5000/hotels/${params.hotel}`)
   {
   path: "/hotels/:hotel/:room",
   element: <PrivateRoute><Roomdetails></Roomdetails></PrivateRoute>,
-  loader: ({ params }) => fetch(`http://localhost:5000/hotels/${params.hotel}/${params.room}`)
+  loader: ({ params }) => fetch(`hhttps://hotel-server-nine.vercel.app/hotels/${params.hotel}/${params.room}`)
 },
  
  {path:'/login',

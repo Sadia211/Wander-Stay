@@ -13,8 +13,8 @@ const Views = () => {
     return (
        
         <>
-         <div className='mx-10 mt-20'>
-         <h1 className='text-4xl font-poppins text-center my-7 font-bold'> Explore the Beauty of Cox's Bazar</h1>
+         <div className='mx-10 mt-32'>
+         <h1 className='text-4xl font-poppins text-center font-bold'> Explore the Beauty of Cox's Bazar</h1>
          <p className='font-poppins text-center my-7'>
          Immerse yourself in breathtaking views of the world's longest natural sea beach. <br></br>
          Discover stunning sunsets, serene landscapes, and vibrant local culture.

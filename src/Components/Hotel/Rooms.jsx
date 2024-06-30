@@ -11,7 +11,7 @@ const Rooms = () => {
     const fetchRooms = async () => {
       try {
         console.log(`Fetching rooms for hotel: ${hotel}`);
-        const response = await fetch(`http://localhost:5000/hotels/${encodeURIComponent(hotel)}`);
+        const response = await fetch(`https://hotel-server-nine.vercel.app/hotels/${encodeURIComponent(hotel)}`);
         console.log('Response status:', response.status);
         if (!response.ok) {
           throw new Error('Network response was not ok');
