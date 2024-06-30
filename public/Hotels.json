@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "hotels": "Hotel Sea Queen",
+    "description": "Hotel Sea Queen offers luxurious amenities and a stunning sea view. Perfect for a relaxing vacation.",
+    "image": "https://i.ibb.co/p45dTsR/gerson-repreza-Cep-Dp-Ei-ALq-M-unsplash-1.jpg"
+  },
+  {
+    "id": 2,
+    "hotels": "Hotel The Cox Today",
+    "description": "Hotel The Cox Today is known for its modern facilities and great sea views. A great choice for travelers.",
+    "image": "https://i.ibb.co/9sdJW0Y/qui-nguyen-YHXPb-Tj7-Q9-Q-unsplash.jpg"
+  },
+  {
+    "id": 3,
+    "hotels": "Sea Paradise",
+    "description": "Sea Paradise offers family-friendly accommodations with excellent facilities. Ideal for a beachside holiday.",
+    "image": "https://i.ibb.co/Bf08PkD/rakabtw-M3-Yu-HIpgm-SY-unsplash.jpg"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "image": "https://example.com/images/john_doe.jpg",
+    "testimonial": "Booking through this website was a breeze! The hotel was exactly as described and the service was exceptional. I will definitely use this service again.",
+    "date": "2024-06-01",
+    "hotelName": "Magestic Oasis suite",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "image": "https://example.com/images/jane_smith.jpg",
+    "testimonial": "I had a fantastic experience! The booking process was simple and the hotel was amazing. Highly recommend!",
+    "date": "2024-05-15",
+    "hotelName": "Grandeur skyline residence",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Emily Johnson",
+    "image": "https://example.com/images/emily_johnson.jpg",
+    "testimonial": "Great service and excellent hotel options. Everything went smoothly from start to finish. Will book again!",
+    "date": "2024-04-20",
+    "hotelName": "Prestigious penthouse retreat",
+    "rating": 4
+  }
+]

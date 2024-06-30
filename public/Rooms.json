@@ -1,0 +1,53 @@
+[
+    {
+      "hotel": "Hotel Sea Queen",
+      "hotel_image": "https://i.ibb.co/XYZ/sea-queen-hotel.jpg",
+      "description": "Hotel Sea Queen offers luxurious amenities and a stunning sea view. Perfect for a relaxing vacation.",
+      "room": "King room",
+      "room_description": "Spacious room with king-size bed, AC, TV, and free Wi-Fi. Ideal for couples.",
+      "room_size": "30 sqm",
+      "price": "$120 per night",
+      "image": "https://i.ibb.co/Z2fZNK1/vojtech-bruzek-Yrxr3bs-Pd-S0-unsplash.jpg"
+    },
+    {
+      "hotel": "Hotel Sea Queen",
+      "hotel_image": "https://i.ibb.co/XYZ/sea-queen-hotel.jpg",
+      "description": "Hotel Sea Queen offers luxurious amenities and a stunning sea view. Perfect for a relaxing vacation.",
+      "room": "Deluxe double room with balcony",
+      "room_description": "Deluxe room with a double bed, AC, TV, balcony, and free Wi-Fi. Perfect for enjoying the sea breeze.",
+      "room_size": "35 sqm",
+      "price": "$150 per night",
+      "image": "https://i.ibb.co/RptsWsJ/mark-champs-Id2-IIl1j-OB0-unsplash.jpg"
+    },
+    {
+      "hotel": "Hotel The Cox Today",
+      "hotel_image": "https://i.ibb.co/XYZ/cox-today-hotel.jpg",
+      "description": "Hotel The Cox Today is known for its modern facilities and breathtaking sea views. A great choice for travelers.",
+      "room": "Double room with sea view",
+      "room_description": "Room with double bed, AC, TV, sea view, and free Wi-Fi. Ideal for a comfortable stay.",
+      "room_size": "28 sqm",
+      "price": "$110 per night",
+      "image": "https://i.ibb.co/44fr36Z/upgraded-points-c8-Uktk-MDrbc-unsplash.jpg"
+    },
+    {
+      "hotel": "Hotel The Cox Today",
+      "hotel_image": "https://i.ibb.co/XYZ/cox-today-hotel.jpg",
+      "description": "Hotel The Cox Today is known for its modern facilities and breathtaking sea views. A great choice for travelers.",
+      "room": "Deluxe room with balcony",
+      "room_description": "Deluxe room with a double bed, AC, TV, balcony, and free Wi-Fi. Perfect for a serene retreat.",
+      "room_size": "32 sqm",
+      "price": "$140 per night",
+      "image": "https://i.ibb.co/TtGyPvK/sasha-kaunas-67-s-Oi7m-VIk-unsplash.jpg"
+    },
+    {
+      "hotel": "Sea Paradise",
+      "hotel_image": "https://i.ibb.co/XYZ/sea-paradise-hotel.jpg",
+      "description": "Hotel Sea Paradise offers family-friendly accommodations with excellent facilities. Ideal for a beachside holiday.",
+      "room": "Family room",
+      "room_description": "Large room with multiple beds, AC, TV, and free Wi-Fi. Great for families.",
+      "room_size": "40 sqm",
+      "price": "$180 per night",
+      "image": "https://i.ibb.co/D9G2p5Y/venice-hotel-tqwvsy-L2-Kd0-unsplash.jpg"
+    }
+  ]
+  
